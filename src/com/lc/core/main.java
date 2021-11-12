@@ -93,11 +93,11 @@ public class main {
                         for (Tuple3<Double, Double, Long> e:elements){
                             if (errLast==null ){
                                 errThreshold.update(0.0); //初始化操作可能不一样，需要改1108 new errCalcu().calcFun(e)  1112
-                                pre.update(new Point(e.f0, e.f1));
+                                pre.update(new Point(e.f0, e.f1)); //时间是否应该考虑？ 1112
                             } else { //内部if是否先判断决定了开窗截止的数据是否应该放入考量，目前先不考量，即重开之后第一个数据为空，因为第一个数据算在了前面一个窗口的结尾，不参与计算 1110
                                 errThreshold.update(new errCalcu().calcFun(e, prePoint, errLast)); //初始化操作可能不一样，需要改1108 由于要累计误差，因此之前的误差值也得传入，以及得传入上一个点 1112
                                 if (errLast >= errBound) { //仅保留起止点。不用MQ了-->所以我们的重点应该放在设计一个增量的误差计算方式,以成对的方式输出。 1110
-                                    errThreshold.update(0.0);// 清空累计误差
+                                    errThreshold.update(0.0);// 清空累计误差 1112
                                     out.collect(new Tuple3<Point, Point, Long>(prePoint, new Point(e.f0, e.f1), e.f2)); //记录了后一个时间，是否需要改进？ 1110
                                 }
                             }

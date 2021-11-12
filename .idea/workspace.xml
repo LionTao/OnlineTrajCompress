@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c05f5bb4-321d-4d8a-b0de-c34db42c4687" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lc/core/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lc/core/main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="pom" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GiteeDefaultAccount">
+    <option name="defaultAccountId" value="75c00613-9ed6-4492-a8e4-387c2cce87ab" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1yXADvr34yhplb8F3wXWjecU3Ul" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lc.func" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lc.core.main" />
+      <module name="OnlineTrajCompress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lc.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c05f5bb4-321d-4d8a-b0de-c34db42c4687" name="Default Changelist" comment="" />
+      <created>1632387442226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632387442226</updated>
+      <workItem from="1632387443796" duration="768000" />
+      <workItem from="1635409556377" duration="670000" />
+      <workItem from="1635855290646" duration="8000" />
+      <workItem from="1636013461452" duration="5083000" />
+      <workItem from="1636286625935" duration="5737000" />
+      <workItem from="1636295512474" duration="68000" />
+      <workItem from="1636297233639" duration="2169000" />
+      <workItem from="1636340172869" duration="467000" />
+      <workItem from="1636340662927" duration="361000" />
+      <workItem from="1636341049478" duration="7390000" />
+      <workItem from="1636687688707" duration="2370000" />
+      <workItem from="1636697744447" duration="2077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="243" key="#com.intellij.ide.util.MemberChooser" timestamp="1636534450254">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="644" y="-830" key="#com.intellij.ide.util.MemberChooser/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636292044077" />
+    <state x="676" y="243" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1636534450254" />
+    <state x="59" y="218" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1636014888110">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="59" y="218" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636014888110" />
+    <state x="463" y="193" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1636689744257">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="463" y="193" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636689744257" />
+    <state x="519" y="-800" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1636297251306">
+      <screen x="-129" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="519" y="-800" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636297251306" />
+    <state x="974" y="92" width="417" height="942" key="Gitee.ShareDialog" timestamp="1636699786247">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="974" y="92" width="417" height="942" key="Gitee.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636699786247" />
+    <state x="520" y="227" key="Gitee.UntrackedFilesDialog" timestamp="1636697980398">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="520" y="227" key="Gitee.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636697980398" />
+    <state x="678" y="426" width="324" height="286" key="Github.ShareDialog" timestamp="1636697675159">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="678" y="426" width="324" height="286" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636697675159" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1636288884712">
+      <screen x="-129" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636288884712" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1636288884711">
+      <screen x="-129" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636288884711" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1636288884710">
+      <screen x="-129" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636288884710" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1636288884712">
+      <screen x="-129" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636288884712" />
+    <state x="851" y="264" key="IDE.errors.dialog" timestamp="1636699549908">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="851" y="264" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636699549908" />
+    <state x="0" y="103" key="SettingsEditor" timestamp="1636698714253">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="103" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1636698714253" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1636698720105">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1636698720105" />
+    <state x="631" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1636699651771">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="631" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1636699651771" />
+    <state x="547" y="234" key="search.everywhere.popup" timestamp="1636360797318">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="496" y="-839" key="search.everywhere.popup/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636292026230" />
+    <state x="547" y="234" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1636360797318" />
+  </component>
+</project>
