@@ -184,7 +184,7 @@ public class GeoHash {
         return new double[] {lat, lon};
     }
     String runGeoHash(Point p){
-        return new GeoHash().encode(p.x, p.y);
+        return new GeoHash().encode(p.lon, p.lat);
     }
     public static void main(String[] args)  throws Exception{
         GeoHash geohash = new GeoHash();

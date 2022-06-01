@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -15,9 +18,32 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c05f5bb4-321d-4d8a-b0de-c34db42c4687" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="c05f5bb4-321d-4d8a-b0de-c34db42c4687" name="Default Changelist" comment="1.0">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lc/core/OPW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lc/core/mainCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lc/core/sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lc/core/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lc/func/Rad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lc/func/calAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lc/func/geoDist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lc/pojo/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lc/pojo/enpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lc/configuration/conf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lc/configuration/conf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/lc/core/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lc/core/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lc/func/GeoHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lc/func/GeoHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lc/func/errCalcu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lc/func/errCalcu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lc/pojo/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lc/pojo/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lc/pojo/trajCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lc/pojo/trajCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lc/configuration/con.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lc/core/main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lc/core/main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lc/core/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lc/core/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lc/func/GeoHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lc/func/GeoHash.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lc/pojo/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lc/pojo/Point.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +57,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="pom" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,27 +65,24 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="1.0" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GiteeDefaultAccount">
     <option name="defaultAccountId" value="75c00613-9ed6-4492-a8e4-387c2cce87ab" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1yXADvr34yhplb8F3wXWjecU3Ul" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -77,16 +101,71 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.gitee" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.lc.core" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.lc.func" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.mainCompare">
+    <configuration name="OPW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lc.core.OPW" />
+      <module name="OnlineTrajCompress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lc.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="errCalcu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lc.func.errCalcu" />
+      <module name="OnlineTrajCompress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lc.func.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lc.core.main" />
+      <module name="OnlineTrajCompress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lc.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lc.core.mainCompare" />
+      <module name="OnlineTrajCompress" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lc.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lc.core.test" />
       <module name="OnlineTrajCompress" />
       <extension name="coverage">
         <pattern>
@@ -100,10 +179,14 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.mainCompare" />
+        <item itemvalue="Application.OPW" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.errCalcu" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -126,11 +209,30 @@
       <workItem from="1636341049478" duration="7390000" />
       <workItem from="1636687688707" duration="2370000" />
       <workItem from="1636697744447" duration="2077000" />
+      <workItem from="1636699854185" duration="732000" />
+      <workItem from="1638411745841" duration="22347000" />
+      <workItem from="1639635313369" duration="41000" />
+      <workItem from="1639635370596" duration="9000" />
+      <workItem from="1639635468065" duration="53429000" />
+      <workItem from="1645860981345" duration="1336000" />
+      <workItem from="1646209443018" duration="58954000" />
+      <workItem from="1647246752891" duration="1528000" />
+      <workItem from="1652622142293" duration="497000" />
+      <workItem from="1653377321684" duration="1481000" />
+      <workItem from="1654049118236" duration="202000" />
     </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <created>1636699953446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636699953446</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -144,74 +246,22 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="676" y="243" key="#com.intellij.ide.util.MemberChooser" timestamp="1636534450254">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="644" y="-830" key="#com.intellij.ide.util.MemberChooser/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636292044077" />
-    <state x="676" y="243" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1636534450254" />
-    <state x="59" y="218" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1636014888110">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="59" y="218" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636014888110" />
-    <state x="463" y="193" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1636689744257">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="463" y="193" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636689744257" />
-    <state x="519" y="-800" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1636297251306">
-      <screen x="-129" y="-1080" width="1920" height="1080" />
-    </state>
-    <state x="519" y="-800" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636297251306" />
-    <state x="974" y="92" width="417" height="942" key="Gitee.ShareDialog" timestamp="1636699786247">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="974" y="92" width="417" height="942" key="Gitee.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636699786247" />
-    <state x="520" y="227" key="Gitee.UntrackedFilesDialog" timestamp="1636697980398">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="520" y="227" key="Gitee.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636697980398" />
-    <state x="678" y="426" width="324" height="286" key="Github.ShareDialog" timestamp="1636697675159">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="678" y="426" width="324" height="286" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636697675159" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1636288884712">
-      <screen x="-129" y="-1080" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636288884712" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1636288884711">
-      <screen x="-129" y="-1080" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636288884711" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1636288884710">
-      <screen x="-129" y="-1080" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636288884710" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1636288884712">
-      <screen x="-129" y="-1080" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636288884712" />
-    <state x="851" y="264" key="IDE.errors.dialog" timestamp="1636699549908">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="851" y="264" key="IDE.errors.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1636699549908" />
-    <state x="0" y="103" key="SettingsEditor" timestamp="1636698714253">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="0" y="103" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1636698714253" />
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1636698720105">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1636698720105" />
-    <state x="631" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1636699651771">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="631" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1636699651771" />
-    <state x="547" y="234" key="search.everywhere.popup" timestamp="1636360797318">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="496" y="-839" key="search.everywhere.popup/-129.-1080.1920.1080/0.25.1680.1025@-129.-1080.1920.1080" timestamp="1636292026230" />
-    <state x="547" y="234" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1636360797318" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lc/func/errCalcu.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

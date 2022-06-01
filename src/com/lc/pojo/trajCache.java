@@ -14,7 +14,9 @@ public class trajCache implements Serializable {
     }
 
     public trajCache(PriorityQueue<Tuple3<Double, Double, Long>> pq){
-
+        while (!pq.isEmpty()){
+            cache.offer(pq.poll());
+        }
     }
 
     public PriorityQueue<Tuple3<Double, Double, Long>> getCache() {
